@@ -14,7 +14,6 @@ Exploring and Engineering the Data
 Visualization of the data and the choices made for engineering new features can be found in the EDA & Feature Engineering Jupyter notebook. In genaral I tried to distill the variables with lower p value and create model as simple as possible without lowering the Adjusted R^2 significantly/
 
 Modeling the Data
-during the process I found out that predicting Happiness can be very complicated and that some variables cancel others or have different influence in different countries. The final model and the reasoning behind which features were included and excluded can be found in the Modeling Jupyter notebook. I general the main variable which i created was based on log of GDP per Capita. Other variblae which stayed part of the final model where 
+during the process I found out that predicting Happiness can be very complicated and that some variables cancel others or have different influence in different countries. The final model and the reasoning behind which features were included and excluded can be found in the Modeling Jupyter notebook. I general the main variable which i created was based on log of GDP per Capita. Other variblae which stayed part of the final model where Deathrate,GINI Coefficient and to local dummy variables to specific areas (NEAR_EAST and SUB_SAHARAN_AFRICA)
 
-Comparing populations
-The data corresponding to two year programs is treated in a similar manner in the Two Year Data Cleaning Jupyter notebook. This is then compared against our four year program data in the Cross Sample Analysis Jupyter notebook which looks into the question of whether or not these colleges can be treated as coming from the same population. After performing a 2-sample t-test we determined that they are in fact distinct and that the model is unlikely to predict the target variable using the same model which was explored in a visualization.
+
