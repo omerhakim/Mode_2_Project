@@ -1,7 +1,8 @@
 # Mode_2_Project  - What Can Predict Happiness?
 
 Goal
-Using publically available data I tried to examine which variables can predict happiness. I took the Happiness score from "The World Happiness Report 2017" (which is based mainly on people own personal feelings). I collected diferenet data from the world bank, and was able eventually to have a model with a resulting Adjusted R^2 value of .711.
+
+Using publically available data I tried to examine which variables can predict happiness. I took the Happiness score from "The World Happiness Report 2017" (which is based mainly on people own personal feelings). I collected different data from the world bank, and was able eventually to have a model with a resulting Adjusted R^2 value of .711.
 
 Procedure
 Getting the Data
