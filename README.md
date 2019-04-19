@@ -18,3 +18,5 @@ Visualization of the data and the choices made for engineering new features can 
 during the process I found out that predicting Happiness can be very complicated and that some variables cancel others or have different influence in different countries. The final model and the reasoning behind which features were included and excluded can be found in the Jupyter notebook. In general, the main variable which I created was based on log of GDP per Capita. Other variable which stayed part of the final model where Death-rate,GINI Coefficient and to local dummy variables to specific areas (NEAR_EAST and SUB_SAHARAN_AFRICA)
 
 
+
+
