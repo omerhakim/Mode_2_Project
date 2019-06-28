@@ -8,16 +8,16 @@ Using publicly available data, I tried to examine which variables can predict ha
 Getting the Data
 I downloaded two data-sets from kaggle.com: "The World Happiness Report" and World Bank Data regarding the countries of the world. After cleaning the Data I created one merged pandas data frame out of them.  I also scraped "GINI Coefficient" table from indexmundi.com.
 
+<img src = "./images/image1.png" style = max width = 60%>
+
 # Cleaning the Data
 The process for cleaning the raw data is covered in the Data Cleaning Jupyter notebook. Entries with missing values were either dropped or replaced manually with information from different sources or with the regional mode/average. 
 
-<img src = "./images/image1.png">
+<img src = "./images/image2.png">
 
 
 # Exploring and Engineering the Data
 Visualization of the data and the choices made for engineering new features can be found in the  Jupyter notebook. In general I tried to distill the variables with lower p value and create model as simple as possible without lowering the Adjusted R^2 significantly.
-
-<img src = "./images/image2.png">
 
 <img src = "./images/image3.png">
 
