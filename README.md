@@ -79,10 +79,7 @@ c
 
 ![Image of model](images/Screenshot%20(58).png)
 
-<img src = "./images/image17.png">
-<img src = "./images/image18.png">
-<img src = "./images/image19.png">
-<img src = "./images/image20.png">
+
 
 
 
