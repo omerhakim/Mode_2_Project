@@ -81,8 +81,8 @@ A
 
 <img src = "./images/image17.png">
 <img src = "./images/image18.png">
-<img src = "./images/image19.png">
-<img src = "./images/image20.png">
+<img src = "./images/image19.png" style = max width = 50%>
+<img src = "./images/image20.png" style = max width = 50%>
 
 
 
