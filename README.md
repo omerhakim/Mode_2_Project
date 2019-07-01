@@ -63,9 +63,8 @@ During the process I found out that predicting Happiness can be very complicated
 
 Statsmodel OLS
 
+<img src = "./images/Screenshot%20(58).png">
 
-
-![Image of model](images/Screenshot%20(58).png)
 
 <img src = "./images/image17.png">
 
