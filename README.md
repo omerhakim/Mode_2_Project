@@ -38,7 +38,7 @@ Outliers influence are even more clear from the scatter plot chart
 
 ## Feature Ingineering
 
-I tried  different tecnich of feture engneering like log, square and interaction.
+I tried  different methods of feature engneering like log, square and interaction.
 <img src = "./images/image8.png">
 
 A
