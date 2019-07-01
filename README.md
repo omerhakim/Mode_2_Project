@@ -32,11 +32,7 @@ and than correlations:
 
 <img src = "./images/image5.png">
 
-A
-
 <img src = "./images/image6.png">
-
-A
 
 <img src = "./images/image7.png">
 
