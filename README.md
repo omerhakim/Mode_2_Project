@@ -17,12 +17,12 @@ Entries with missing values were either dropped or replaced manually with inform
 
 # Exploring and Engineering the Data
 
-First I checked difrrent correlations:
+First I checked histograms from the data:
 
 
 <img src = "./images/image3.png">
 
-A
+and than correlations:
 
 <img src = "./images/image4.png">
 
