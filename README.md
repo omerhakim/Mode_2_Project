@@ -22,12 +22,12 @@ First I created an histograms of the data to have a better understanding of the 
 
 <img src = "./images/image3.png">
 
-Outliars influence are even more clear from the scatter plot chart
+Outliers influence are even more clear from the scatter plot chart
 
 <img src = "./images/image4.png">
 
 
- I used Seaborn to vizualize the correlations between the independet variable and the hapiness scor:
+ I used Seaborn to visualize the correlations between the independent variable and the happiness score:
 
 
 <img src = "./images/image5.png">
