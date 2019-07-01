@@ -50,7 +50,7 @@ For the model I used Statsmodel OLS (Ordinary Least Squares)
 <img src = "./images/image17.png">
 <img src = "./images/image13.png">
 
-During the process I found out that predicting Happiness can be very complicated and that some variables cancel others or have different influence in different countries.  In general, the most influental variable on the prediction of Happiness is **log of GDP per Capita**. Other variable which stayed part of the final model where Death-rate,GINI Coefficient and local dummy variables of specific areas (NEAR_EAST and SUB_SAHARAN_AFRICA)
+During the process I found out that predicting Happiness can be very complicated and that some variables cancel others or have different influence in different countries.  In general, the most influential variable on the prediction of Happiness is **log of GDP per Capita**. Other variable which stayed part of the final model where Death-rate,GINI Coefficient and local dummy variables of specific areas (NEAR_EAST and SUB_SAHARAN_AFRICA)
 
 Below is the  final Model OLS report, Residual and Q-Q Plot:
 
