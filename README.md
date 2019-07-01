@@ -27,7 +27,7 @@ Outliars influence are even more clear from the scatter plot chart
 <img src = "./images/image4.png">
 
 
-and than correlations:
+ I used Seaborn to vizualize the correlations between the independet variable and the hapiness scor:
 
 
 <img src = "./images/image5.png">
