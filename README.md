@@ -2,7 +2,7 @@
 
 # Goal
 
-Using publicly available data, I tried to examine which dependent variables can predict the feeling of happiness among people. My dependent variable was the Happiness score from "The World Happiness Report 2017". I collected additional data from the world bank sources, and was able eventually to have a model with a resulting Adjusted R^2 of .711.
+Using publicly available data, I tried to examine which dependent variables can predict the feeling of happiness among people around the world. My dependent variable was the Happiness score from "The World Happiness Report 2017". I collected additional data from the world bank sources, and was able eventually to have a model with a resulting Adjusted R^2 of .711.
 
 # Procedure
 
