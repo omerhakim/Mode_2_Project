@@ -12,7 +12,7 @@ Getting the Data: I downloaded two data-sets from kaggle.com: "The World Happine
 # Cleaning the Data
 Entries with missing values were either dropped or replaced manually with information from different sources or with the regional mode/average. 
 
-<img src = "./images/image2.png" style+ max width = 85%>
+<img src = "./images/image2.png" style= max width = 85%>
 
 
 # Exploring and Engineering the Data
