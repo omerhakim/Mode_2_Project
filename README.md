@@ -2,21 +2,21 @@
 
 # Goal
 
-Using publicly available data, I tried to examine which dependent variables can predict the feeling of happiness among people. In order to do that, I took the Happiness score from "The World Happiness Report 2017" (which is based mainly on people own personal responses). I collected different data from the world bank sources, and was able eventually to have a model with a resulting Adjusted R^2 value of .711.
+Using publicly available data, I tried to examine which dependent variables can predict the feeling of happiness among people. My dependent variable was the Happiness score from "The World Happiness Report 2017". I collected additional data from the world bank sources, and was able eventually to have a model with a resulting Adjusted R^2 of .711.
 
 # Procedure
 Getting the Data
-I downloaded two data-sets from kaggle.com: "The World Happiness Report" and World Bank Data regarding the countries of the world. After cleaning the Data I created one merged pandas data frame out of them.  I also scraped "GINI Coefficient" table from indexmundi.com.
+I downloaded two data-sets from kaggle.com: "The World Happiness Report" and World Bank Data regarding the countries of the world. After cleaning the Data I created one joint merged pandas data frame.  I also scraped "GINI Coefficient" table from indexmundi.com.
 
 
 # Cleaning the Data
 Entries with missing values were either dropped or replaced manually with information from different sources or with the regional mode/average. 
 
-<img src = "./images/image2.png">
+<img src = "./images/image2.png" style+ max width = 85%>
 
 
 # Exploring and Engineering the Data
-In general I tried to distill the variables with lower p value and create model as simple as possible without lowering the Adjusted R^2 significantly.
+I tried  different tecnich of feture engneering like log, square and interaction. From the original and the new features, I selected only the variables with relatively low p value and created more simple model without lowering significantly the Adjusted R^2.
 
 <img src = "./images/image3.png">
 
