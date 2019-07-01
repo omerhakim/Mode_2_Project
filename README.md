@@ -49,8 +49,6 @@ I tried  different methods of feature engneering like log, square and interactio
 
 <img src = "./images/image11.png">
 
-Dummy variables:
-
 <img src = "./images/image12.png">
 
 # Modeling the Data
