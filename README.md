@@ -6,7 +6,7 @@ Using publicly available data, I tried to examine which dependent variables can 
 
 # Procedure
 
-Getting the Data: I downloaded two data-sets from kaggle.com: "The World Happiness Report" and World Bank Data regarding the countries of the world. After cleaning the Data I created one joint pandas data frame.  I also scraped "GINI Coefficient" table from indexmundi.com.
+Getting the Data: I downloaded two data-sets from kaggle.com: "The World Happiness Report" and World Bank Data regarding the countries of the world. After cleaning the Data I created one joint pandas data frame.  I also scraped "GINI Coefficient" table from www.indexmundi.com.
 
 
 # Cleaning the Data
