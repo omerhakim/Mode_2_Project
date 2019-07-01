@@ -5,8 +5,8 @@
 Using publicly available data, I tried to examine which dependent variables can predict the feeling of happiness among people. My dependent variable was the Happiness score from "The World Happiness Report 2017". I collected additional data from the world bank sources, and was able eventually to have a model with a resulting Adjusted R^2 of .711.
 
 # Procedure
-Getting the Data
-I downloaded two data-sets from kaggle.com: "The World Happiness Report" and World Bank Data regarding the countries of the world. After cleaning the Data I created one joint merged pandas data frame.  I also scraped "GINI Coefficient" table from indexmundi.com.
+
+Getting the Data: I downloaded two data-sets from kaggle.com: "The World Happiness Report" and World Bank Data regarding the countries of the world. After cleaning the Data I created one joint pandas data frame.  I also scraped "GINI Coefficient" table from indexmundi.com.
 
 
 # Cleaning the Data
@@ -16,7 +16,9 @@ Entries with missing values were either dropped or replaced manually with inform
 
 
 # Exploring and Engineering the Data
-I tried  different tecnich of feture engneering like log, square and interaction. From the original and the new features, I selected only the variables with relatively low p value and created more simple model without lowering significantly the Adjusted R^2.
+
+First I checked difrrent correlations:
+
 
 <img src = "./images/image3.png">
 
@@ -39,6 +41,8 @@ A
 <img src = "./images/image7.png">
 
 ## Feature Ingineering
+
+I tried  different tecnich of feture engneering like log, square and interaction. From the original and the new features, I selected only the variables with relatively low p value and created more simple model without lowering significantly the Adjusted R^2.
 
 <img src = "./images/image8.png">
 
