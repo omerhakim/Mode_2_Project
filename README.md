@@ -53,6 +53,8 @@ I tried  different methods of feature engneering like log, square and interactio
 
 # Modeling the Data
 
+baseline model using Statsmodel OLS (Ordinary Least Squares)
+
 From the original and the new features, I selected only the variables with relatively low p value and created more simple model without lowering significantly the Adjusted R^2. for my prediction I used Statsmodel OLS (Ordinary Least Squares)
 
 <img src = "./images/image13.png">
