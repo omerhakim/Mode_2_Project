@@ -44,7 +44,7 @@ I tried  different tecnich of feture engneering like log, square and interaction
 A
 
 
-<img src = "./images/image9.png" style = max witdh = 85%>
+<img src = "./images/image9.png" style = max witdh = 75%>
 
 <img src = "./images/image10.png">
 
