@@ -42,8 +42,7 @@ A
 
 ## Feature Ingineering
 
-I tried  different tecnich of feture engneering like log, square and interaction. From the original and the new features, I selected only the variables with relatively low p value and created more simple model without lowering significantly the Adjusted R^2.
-
+I tried  different tecnich of feture engneering like log, square and interaction.
 <img src = "./images/image8.png">
 
 A
@@ -61,6 +60,9 @@ A
 <img src = "./images/image11.png">
 
 # Modeling the Data
+
+From the original and the new features, I selected only the variables with relatively low p value and created more simple model without lowering significantly the Adjusted R^2.
+
 
 <img src = "./images/image12.png">
 
