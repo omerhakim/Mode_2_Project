@@ -59,12 +59,16 @@ A
 
 <img src = "./images/image11.png">
 
+Dummy variables
+
+<img src = "./images/image12.png">
+
 # Modeling the Data
 
 From the original and the new features, I selected only the variables with relatively low p value and created more simple model without lowering significantly the Adjusted R^2.
 
 
-<img src = "./images/image12.png">
+
 
 A
 
