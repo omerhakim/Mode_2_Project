@@ -41,7 +41,6 @@ Outliers influence are even more clear from the scatter plot chart
 I tried  different methods of feature engneering like log, square and interaction.
 <img src = "./images/image8.png">
 
-A
 
 
 <img src = "./images/image9.png" style = max witdh = 75%>
