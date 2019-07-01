@@ -8,9 +8,6 @@ Using publicly available data, I tried to examine which dependent variables can 
 Getting the Data
 I downloaded two data-sets from kaggle.com: "The World Happiness Report" and World Bank Data regarding the countries of the world. After cleaning the Data I created one merged pandas data frame out of them.  I also scraped "GINI Coefficient" table from indexmundi.com.
 
-image from https://worldhappiness.report/
-
-<img src = "./images/image1.png" style = max width = 60%>
 
 # Cleaning the Data
 Entries with missing values were either dropped or replaced manually with information from different sources or with the regional mode/average. 
