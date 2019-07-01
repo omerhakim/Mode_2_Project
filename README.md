@@ -17,12 +17,12 @@ Entries with missing values were either dropped or replaced manually with inform
 
 # Exploring and Engineering the Data
 
-First I checked histograms from the data:
+First I created an histograms of the data to have a better understanding of the different distributions:
 
 
 <img src = "./images/image3.png">
 
-Outliars influence
+Outliars influence are even more clear from the scatter plot chart
 
 <img src = "./images/image4.png">
 
