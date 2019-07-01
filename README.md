@@ -50,7 +50,7 @@ A
 
 <img src = "./images/image11.png">
 
-Dummy variables
+Dummy variables:
 
 <img src = "./images/image12.png">
 
