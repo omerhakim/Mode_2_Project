@@ -50,12 +50,7 @@ A
 
 <img src = "./images/image9.png">
 
-
-A
-
 <img src = "./images/image10.png">
-
-A
 
 <img src = "./images/image11.png">
 
