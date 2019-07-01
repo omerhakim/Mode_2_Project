@@ -65,7 +65,9 @@ During the process I found out that predicting Happiness can be very complicated
 <img src = "./images/image19.png" style = max width = 50%>
 <img src = "./images/image20.png" style = max width = 50%>
 
-During the process I found out that predicting Happiness can be very complicated and that some variables cancel others or have different influence in different countries.  In general, the main variable which I created was based on **log of GDP per Capita**. Other variable which stayed part of the final model where Death-rate,GINI Coefficient and local dummy variables of specific areas (NEAR_EAST and SUB_SAHARAN_AFRICA)
+During the process I found out that predicting Happiness can be very complicated and that some variables cancel others or have different influence in different countries.  In general, the most influental variable on the prediction of Happiness is **log of GDP per Capita**. Other variable which stayed part of the final model where Death-rate,GINI Coefficient and local dummy variables of specific areas (NEAR_EAST and SUB_SAHARAN_AFRICA)
+
+Below is the  final Model OLS report, Residual and Q-Q Plot.
 
 
 
