@@ -54,10 +54,11 @@ I tried  different methods of feature engneering like log, square and interactio
 # Modeling the Data
 
 baseline model using Statsmodel OLS (Ordinary Least Squares)
-
+<img src = "./images/image17.png">
+<img src = "./images/image13.png">
 From the original and the new features, I selected only the variables with relatively low p value and created more simple model without lowering significantly the Adjusted R^2. for my prediction I used Statsmodel OLS (Ordinary Least Squares)
 
-<img src = "./images/image13.png">
+
 
 During the process I found out that predicting Happiness can be very complicated and that some variables cancel others or have different influence in different countries.  In general, the main variable which I created was based on **log of GDP per Capita**. Other variable which stayed part of the final model where Death-rate,GINI Coefficient and local dummy variables of specific areas (NEAR_EAST and SUB_SAHARAN_AFRICA)
 
@@ -68,10 +69,10 @@ During the process I found out that predicting Happiness can be very complicated
 <img src = "./images/Screenshot%20(58).png">
 
 
-<img src = "./images/image17.png">
+
 
 <img src = "./images/image19.png" style = max width = 50%>
-<img src = "./images/image20.png" style = max width = 40%>
+<img src = "./images/image20.png" style = max width = 50%>
 
 
 
